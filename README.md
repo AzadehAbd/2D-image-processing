@@ -1,4 +1,4 @@
 # 2D-image-processing 
-it an introduction to geppandas
+It an introduction to geppandas
 
 Contributor: Azadeh Abdollahnejad
